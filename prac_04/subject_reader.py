@@ -4,7 +4,6 @@ Data file -> lists program
 """
 
 def get_data(filename):
-    """Read data from file formatted like: subject,lecturer,number of students."""
     data = []
     with open(filename) as input_file:
         for line in input_file:
