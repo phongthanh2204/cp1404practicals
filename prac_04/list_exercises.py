@@ -1,5 +1,4 @@
 def main():
-    # Basic List Operations
     numbers = []
     for i in range(5):
         number = float(input("Number: "))
@@ -11,7 +10,6 @@ def main():
     print(f"The largest number is {max(numbers)}")
     print(f"The average of the numbers is {sum(numbers) / len(numbers)}")
 
-    # Woefully Inadequate Security Checker
     usernames = ['jimbo', 'giltson98', 'derekf', 'WhatSup', 'NicolEye', 'swei45',
                  'BaseInterpreterInterface', 'BaseStdIn', 'Command', 'ExecState',
                  'InteractiveConsole', 'InterpreterInterface', 'StartServer', 'bob']
