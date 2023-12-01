@@ -1,3 +1,27 @@
+"""
+def main()
+    number = []
+    for i in range(5)
+        get number
+        numbers.append(number)
+
+    print {numbers[0]}
+    print {numbers[-1]}
+    print {min(numbers)}
+    print {max(numbers)}
+    print {sum(numbers) / len(numbers)}
+
+    usernames = ['jimbo', 'giltson98', 'derekf', 'WhatSup', 'NicolEye', 'swei45',
+                 'BaseInterpreterInterface', 'BaseStdIn', 'Command', 'ExecState',
+                 'InteractiveConsole', 'InterpreterInterface', 'StartServer', 'bob']
+    get username
+    if username in usernames
+        print Acecess granted
+    else
+        print Access denied
+
+main()
+"""
 def main():
     numbers = []
     for i in range(5):
