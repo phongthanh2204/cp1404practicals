@@ -55,5 +55,4 @@ def main():
     add_new_guitars(guitars)
     save_guitars_to_csv(guitars, file_path)
 
-if __name__ == '__main__':
-    main()
+main()
