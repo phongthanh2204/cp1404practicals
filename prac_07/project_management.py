@@ -85,5 +85,4 @@ def main():
     save_projects(filename, projects)
 
 
-if __name__ == '__main__':
-    main()
+main()
